@@ -16,5 +16,5 @@ Trabalho Final
 Classificação de estilos musicais pela letra
 
 
-.. image:: https://github.com/patrickguima/PLN/genres.jpg
+.. image:: https://github.com/patrickguima/PLN/blob/master/genres.jpg
 
